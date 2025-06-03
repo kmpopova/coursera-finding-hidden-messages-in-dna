@@ -10,14 +10,14 @@ You can view my certificate of completion for this course here: [Coursera: Findi
 
 ## Folder Structure
 
-- **Week1/**: Basic string and pattern matching algorithms for DNA sequences.
+- **Week1**: Basic string and pattern matching algorithms for DNA sequences.
   - `P121_dna_pattern_search.py`: Search for patterns in DNA.
   - `P122_dna_freq_words.py`: Find frequent words (k-mers) in DNA.
   - `P131_dna_rev_complement.py`: Compute the reverse complement of a DNA string.
   - `P132_dna_pattern_in_genome.py`: Find all occurrences of a pattern in a genome.
   - `P141_dna_find_clumps.py`: Find clumps of patterns in a genome.
 
-- **Week2/**: Approximate pattern matching, mismatches, and related algorithms.
+- **Week2**: Approximate pattern matching, mismatches, and related algorithms.
   - `P130_dna_skew_diagram.py`: Compute skew diagrams for DNA sequences.
   - `P131_dna_min_skew.py`: Find minimum skew positions.
   - `P141_dna_hamming_dist.py`: Calculate Hamming distance between strings.
@@ -26,14 +26,14 @@ You can view my certificate of completion for this course here: [Coursera: Findi
   - `P145_dna_freq_words_w_mismatch.py`: Find frequent words with mismatches.
   - `helper_functions.py`: Utility functions for Week 2 scripts.
 
-- **Week3/**: Motif finding and entropy calculations.
+- **Week3**: Motif finding and entropy calculations.
   - `P121_dna_motif_enumeration.py`: Motif enumeration in DNA sequences.
   - `P132_entropy_calculation.py`: Calculate entropy of motifs.
   - `P151_profile_most_prob_kmer.py`: Find most probable k-mers using a profile matrix.
   - `P171_median_string.py`: Find the median string in a set of DNA sequences.
   - `helper_functions.py`: Utility functions for Week 3 scripts.
 
-- **Week4/**: Randomized algorithms for motif search.
+- **Week4**: Randomized algorithms for motif search.
   - `P111_randomized_motif_search.py`: Randomized motif search algorithm implementation.
   - `helper_functions.py`: Utility functions for Week 4 scripts.
 
