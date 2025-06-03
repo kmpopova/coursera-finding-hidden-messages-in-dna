@@ -11,6 +11,7 @@ PatternCount(Text, Pattern)
   return count
 """
 
+
 def pattern_count(text: str, pattern: str):
     count = 0
     
