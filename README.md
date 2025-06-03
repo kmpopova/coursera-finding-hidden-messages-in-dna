@@ -1,6 +1,6 @@
 # Coursera: Finding Hidden Messages in DNA (Bioinformatics I)
 
-This repository contains my solutions and code for the Coursera course **"Finding Hidden Messages in DNA (Bioinformatics I)"**. 
+This repository contains my solutions and code for the Coursera course **"Finding Hidden Messages in DNA (Bioinformatics I)"** by UC San-Diego (course authors: Pavel Pevzner & Philipp Compeau). 
 
 The code is organized by week and covers a variety of classic bioinformatics algorithms and problems, implemented in Python.
 
