@@ -50,7 +50,6 @@ if __name__ == "__main__":
     output = distance_between_pattern_and_strings("TGGACC", input_list)
     print(output)
     
-    
     input_str = "CTCGATGAGTAGGAAAGTAGTTTCACTGGGCGAACCACCCCGGCGCTAATCCTAGTGCCC GCAATCCTACCCGAGGCCACATATCAGTAGGAACTAGAACCACCACGGGTGGCTAGTTTC GGTGTTGAACCACGGGGTTAGTTTCATCTATTGTAGGAATCGGCTTCAAATCCTACACAG"
     input_list = input_str.split(" ")
     output = median_string(input_list, 7)
